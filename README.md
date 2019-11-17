@@ -17,4 +17,6 @@ Module list:-
     1. what-is-docker
     2. why-is-docker
     3. how-works-docker
+    4. cli-command-one
+    5. cli-command-two
 ```
