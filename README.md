@@ -1,19 +1,16 @@
 # Learn Docker A  to Z
 
-### *In this tutorial wi will discuss A to Z about of docker*
-```
-Module list:-
-    1. What is docker?
-    2. Why we need docker?
-    3. How to work docker?
-    4. All Cli command of docker.
-    5. Build an python application with docker.
-```
-#### *Note: I will provide you here all of the GitHub branch references, please follow the branches for details.*
 
+```
+    How to work docker?
+        First, you need to install docker in your machine. 
+        Just go to docker docs website -> https://docs.docker.com
+        Follow the instraction for installing also remember which OS you use just follow that instractions first.
 
-##### GitHub branch references:-
+        Docker Engine / Docker working stages:- 
+           1. docker server or daemon
+           2. Rest API
+           3. CLI
+           You can go to the link for details https://docs.docker.com/engine/docker-overview/
 ```
-    1. what-is-docker
-    2. why-is-docker
-```
+#### Thanks
