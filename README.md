@@ -1,6 +1,5 @@
 # What is docker A  to Z
 
-### *In this tutorial wi will discuss A to Z about of docker*
 ```
     What is docker?
        You can say docker is one kind of code wrapper.
